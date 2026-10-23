@@ -24,11 +24,7 @@ An end-to-end data analytics project evaluating the profitability leakage of an 
 
 ---
 
-## 📊 Dashboard Preview
-*(Add your dashboard screenshots below)*
-
-![Dashboard Overview](visuals/dashboard_overview.png)
-
+*Interactive Power BI dashboard visuals coming soon.*
 ---
 
 ## 📂 Repository Structure
